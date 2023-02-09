@@ -1,0 +1,13 @@
+
+li{
+    position: relative;
+    right: 3em;
+    /* background-color: red; */
+}
+a{
+    text-decoration: none;
+}
+ol{
+    /* background-color: green; */
+    width:fit-content;
+}
