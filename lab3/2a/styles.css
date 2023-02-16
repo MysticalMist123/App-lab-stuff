@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+#a{
+    border: thick groove black;
+}
+#b{
+    border: medium groove black;
+}
+#c{
+    border: thin groove black;
+}
+#d{
+    border: thin inset red;
+}
+#e{
+    border: medium outset blue;
+}

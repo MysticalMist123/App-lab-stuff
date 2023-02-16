@@ -1,0 +1,19 @@
+*{
+    background-color: white;
+    color: black;
+}
+
+#in{
+    background-color: white;
+    border: 2px solid black;
+    color: black;
+}
+a{
+    color: blue;
+}
+a:visited{
+    color: purple;
+}
+a:active{
+    color: red;
+}

@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* makes the headings green in color. font size is set to 22pt and the font used is Times New Roman. */
+h1,h2{
+    color: green;
+    font-size: 22pt;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* makes the font color black for paragraphs. the font size is 12pt and the font used is Times New Roman */
+p{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pt;
+}

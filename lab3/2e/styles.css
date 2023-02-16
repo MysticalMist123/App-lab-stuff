@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(78, 193, 91);
+    height: 100px;
+}
+
+li{
+    /* background-color: yellow; */
+    border-bottom: thin solid black;
+    border-left: thin solid black;
+    border-right: thin solid black;
+    width: 100px;
+    text-align: center;
+    /* padding: 20px; */
+}
+
+a{
+    text-decoration: none;
+}

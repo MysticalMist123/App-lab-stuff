@@ -1,0 +1,6 @@
+body{
+    /* background-color: red; */
+    background-image: url("image.jfif");
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
